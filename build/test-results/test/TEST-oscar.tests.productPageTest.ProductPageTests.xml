@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oscar.tests.productPageTest.ProductPageTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-10T09:49:07" hostname="corfu-2.local" time="1.93">
+  <properties/>
+  <testcase name="verifyCorrectName" classname="oscar.tests.productPageTest.ProductPageTests" time="1.93"/>
+  <system-out><![CDATA[11:49:01.680 [Test worker] INFO  oscar.tests.TestBase - Start test verifyCorrectName with data: []
+The shellcoder's handbook
+11:49:08.940 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+11:49:08.941 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+11:49:08.941 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 6645
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1631267339.306][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+Sep 10, 2021 11:48:59 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

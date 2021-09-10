@@ -1,0 +1,4 @@
+07:17:27.894 [Test worker] INFO  oscar.tests.TestBase - Start test emailWithConfirmationOfOrder with data: []
+07:17:50.342 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:17:50.344 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:17:50.344 [Test worker] INFO  oscar.tests.TestBase - **********************************************

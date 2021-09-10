@@ -1,0 +1,8 @@
+06:07:11.450 [Test worker] INFO  oscar.tests.TestBase - Start test verifyMandatoryFieldsNegative with data: []
+06:07:29.489 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:07:29.552 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:07:29.553 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+06:07:33.290 [Test worker] INFO  oscar.tests.TestBase - Start test verifyMandatoryFieldsPositive with data: []
+06:07:45.598 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:07:45.599 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:07:45.600 [Test worker] INFO  oscar.tests.TestBase - **********************************************

@@ -1,0 +1,20 @@
+10:37:18.874 [Test worker] INFO  oscar.tests.TestBase - Start test menuElementsAreClickable with data: []
+10:37:31.124 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+10:37:31.125 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+10:37:31.125 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+10:37:35.064 [Test worker] INFO  oscar.tests.TestBase - Start test menuElementsArePresent with data: []
+10:37:39.518 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+10:37:39.518 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+10:37:39.519 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+10:37:43.032 [Test worker] INFO  oscar.tests.TestBase - Start test menuElementsRedirectToCorrectPages with data: []
+10:37:54.106 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+10:37:54.106 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+10:37:54.107 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+10:37:57.570 [Test worker] INFO  oscar.tests.TestBase - Start test searchTestNegative with data: []
+10:38:02.309 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+10:38:02.310 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+10:38:02.310 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+10:38:06.470 [Test worker] INFO  oscar.tests.TestBase - Start test searchTestPositive with data: []
+10:38:20.646 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+10:38:20.647 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+10:38:20.647 [Test worker] INFO  oscar.tests.TestBase - **********************************************

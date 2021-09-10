@@ -1,0 +1,4 @@
+06:00:27.584 [Test worker] INFO  oscar.tests.TestBase - Start test makeNotification with data: []
+06:01:11.722 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:01:11.723 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:01:11.724 [Test worker] INFO  oscar.tests.TestBase - **********************************************

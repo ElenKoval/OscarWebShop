@@ -1,0 +1,28 @@
+07:14:23.550 [Test worker] INFO  oscar.tests.TestBase - Start test addToBasketFromAllProductTest with data: []
+07:14:31.882 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:14:31.884 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:14:31.884 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:14:37.251 [Test worker] INFO  oscar.tests.TestBase - Start test addToBasketFromItemPageTest with data: []
+07:14:46.517 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:14:46.518 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:14:46.519 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:14:50.697 [Test worker] INFO  oscar.tests.TestBase - Start test linksRedirectToCorrectPages with data: []
+07:15:16.554 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:15:16.555 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:15:16.555 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:15:21.781 [Test worker] INFO  oscar.tests.TestBase - Start test redirectToHomePageFromItemPageViaHomeButton with data: []
+07:15:28.895 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:15:28.896 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:15:28.896 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:15:32.956 [Test worker] INFO  oscar.tests.TestBase - Start test redirectToHomePageFromItemPageViaLogo with data: []
+07:15:40.180 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:15:40.181 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:15:40.181 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:15:44.226 [Test worker] INFO  oscar.tests.TestBase - Start test verifyPagination with data: []
+07:15:53.426 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:15:53.426 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:15:53.427 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:15:57.605 [Test worker] INFO  oscar.tests.TestBase - Start test verifyPaginationNegativeTest with data: []
+07:16:16.200 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:16:16.200 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:16:16.200 [Test worker] INFO  oscar.tests.TestBase - **********************************************

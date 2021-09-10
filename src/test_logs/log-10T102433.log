@@ -1,0 +1,4 @@
+10:24:39.776 [Test worker] INFO  oscar.tests.TestBase - Start test searchTestPositive with data: []
+10:24:53.521 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+10:24:53.522 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+10:24:53.522 [Test worker] INFO  oscar.tests.TestBase - **********************************************

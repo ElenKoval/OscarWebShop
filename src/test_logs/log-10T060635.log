@@ -1,0 +1,4 @@
+06:06:39.928 [Test worker] INFO  oscar.tests.TestBase - Start test createNewWishList with data: []
+06:06:53.900 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:06:53.900 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:06:53.901 [Test worker] INFO  oscar.tests.TestBase - **********************************************

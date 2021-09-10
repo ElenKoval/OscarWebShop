@@ -1,0 +1,4 @@
+06:22:10.697 [Test worker] INFO  oscar.tests.TestBase - Start test editProfileNegativeTest with data: []
+06:22:20.697 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:22:20.700 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:22:20.701 [Test worker] INFO  oscar.tests.TestBase - **********************************************

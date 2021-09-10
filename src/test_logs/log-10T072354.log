@@ -1,0 +1,24 @@
+07:24:00.783 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [elen@gmailcom]
+07:24:02.755 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:24:02.755 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:24:02.756 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:24:06.798 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [elengmail.com]
+07:24:08.451 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:24:08.451 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:24:08.452 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:24:12.646 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [@gmail.com]
+07:24:14.268 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:24:14.268 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:24:14.268 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:24:18.906 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [@gmail@com]
+07:24:20.489 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:24:20.490 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:24:20.490 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:24:24.615 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [elen@]
+07:24:26.135 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:24:26.136 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:24:26.136 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+07:24:30.661 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationPositiveTest with data: []
+07:24:39.866 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+07:24:39.866 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+07:24:39.867 [Test worker] INFO  oscar.tests.TestBase - **********************************************

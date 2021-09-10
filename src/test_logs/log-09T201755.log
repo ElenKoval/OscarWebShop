@@ -1,0 +1,36 @@
+20:18:00.245 [Test worker] INFO  oscar.tests.TestBase - Start test accountIsNotRedirectToProfileForUnloginUser with data: []
+20:18:15.407 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:18:15.408 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:18:15.409 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:18:19.260 [Test worker] INFO  oscar.tests.TestBase - Start test accountRedirectToProfileForLoginUser with data: []
+20:18:23.684 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:18:23.684 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:18:23.685 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:18:27.072 [Test worker] INFO  oscar.tests.TestBase - Start test changeLanguage with data: []
+20:18:33.099 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:18:33.099 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:18:33.100 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:18:36.876 [Test worker] INFO  oscar.tests.TestBase - Start test headerElementsIsPresentForLoginUser with data: []
+20:18:41.569 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:18:41.570 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:18:41.570 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:18:45.267 [Test worker] INFO  oscar.tests.TestBase - Start test headerElementsIsPresentForUnloginUser with data: []
+20:18:50.822 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:18:50.823 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:18:50.823 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:18:54.485 [Test worker] INFO  oscar.tests.TestBase - Start test isButtonsInHeaderClickable with data: []
+20:18:59.928 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:18:59.929 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:18:59.929 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:19:03.387 [Test worker] INFO  oscar.tests.TestBase - Start test logoutButtonLogouted with data: []
+20:19:09.600 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:19:09.601 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:19:09.601 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:19:13.506 [Test worker] INFO  oscar.tests.TestBase - Start test mainPageLinkRedirectToHomePage with data: []
+20:19:19.208 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:19:19.208 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:19:19.209 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+20:19:22.938 [Test worker] INFO  oscar.tests.TestBase - Start test viewBasketLinkRedirectToBasket with data: []
+20:19:27.451 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+20:19:27.451 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+20:19:27.451 [Test worker] INFO  oscar.tests.TestBase - **********************************************

@@ -1,0 +1,8 @@
+06:08:02.314 [Test worker] INFO  oscar.tests.TestBase - Start test loginNegativeTestWithoutData with data: []
+06:08:03.467 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:08:03.468 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:08:03.469 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+06:08:07.230 [Test worker] INFO  oscar.tests.TestBase - Start test loginPositiveTest with data: []
+06:08:11.228 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:08:11.228 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:08:11.229 [Test worker] INFO  oscar.tests.TestBase - **********************************************

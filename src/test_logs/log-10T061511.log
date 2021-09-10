@@ -1,0 +1,20 @@
+06:15:16.021 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [elen@gmailcom]
+06:15:17.665 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:15:17.666 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:15:17.667 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+06:15:21.249 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [elengmail.com]
+06:15:22.574 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:15:22.575 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:15:22.576 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+06:15:26.289 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [@gmail.com]
+06:15:27.610 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:15:27.611 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:15:27.611 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+06:15:31.498 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [@gmail@com]
+06:15:32.776 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:15:32.776 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:15:32.776 [Test worker] INFO  oscar.tests.TestBase - **********************************************
+06:15:36.456 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationNegativeTest with data: [elen@]
+06:15:37.800 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
+06:15:37.800 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
+06:15:37.801 [Test worker] INFO  oscar.tests.TestBase - **********************************************
