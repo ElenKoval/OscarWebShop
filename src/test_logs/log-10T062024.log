@@ -1,2 +1,0 @@
-06:20:30.970 [Test worker] INFO  oscar.tests.TestBase - Start test deleteProfile with data: []
-06:20:52.693 [Test worker] INFO  oscar.tests.TestBase - Start test editProfileNegativeTest with data: []

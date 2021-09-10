@@ -1,4 +1,0 @@
-07:08:08.760 [Test worker] INFO  oscar.tests.TestBase - Start test deleteProfile with data: []
-07:08:22.490 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:08:22.490 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:08:22.491 [Test worker] INFO  oscar.tests.TestBase - **********************************************

@@ -1,4 +1,0 @@
-20:17:44.920 [Test worker] INFO  oscar.tests.TestBase - Start test viewBasketLinkRedirectToBasket with data: []
-20:17:50.027 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-20:17:50.028 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-20:17:50.029 [Test worker] INFO  oscar.tests.TestBase - **********************************************

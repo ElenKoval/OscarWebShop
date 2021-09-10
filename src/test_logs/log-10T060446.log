@@ -1,5 +1,0 @@
-06:04:50.304 [Test worker] INFO  oscar.tests.TestBase - Start test orderNumberConfirmation with data: []
-06:05:07.492 [Test worker] INFO  oscar.tests.TestBase - true
-06:05:07.495 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-06:05:07.497 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-06:05:07.497 [Test worker] INFO  oscar.tests.TestBase - **********************************************

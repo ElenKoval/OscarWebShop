@@ -1,4 +1,0 @@
-11:11:34.174 [Test worker] INFO  oscar.tests.TestBase - Start test verifyCorrectName with data: []
-11:11:41.819 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-11:11:41.820 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-11:11:41.821 [Test worker] INFO  oscar.tests.TestBase - **********************************************

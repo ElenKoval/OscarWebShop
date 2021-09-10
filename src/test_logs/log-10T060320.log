@@ -1,2 +1,0 @@
-06:03:26.049 [Test worker] INFO  oscar.tests.TestBase - Start test addressEditTestPositive with data: []
-06:03:47.000 [Test worker] INFO  oscar.tests.TestBase - Start test addressEditWithEmptyNameTestNegative with data: []

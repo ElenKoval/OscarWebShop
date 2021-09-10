@@ -1,8 +1,0 @@
-07:16:39.797 [Test worker] INFO  oscar.tests.TestBase - Start test addressEditTestPositive with data: []
-07:16:52.589 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:16:52.591 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:16:52.592 [Test worker] INFO  oscar.tests.TestBase - **********************************************
-07:16:57.341 [Test worker] INFO  oscar.tests.TestBase - Start test addressEditWithEmptyNameTestNegative with data: []
-07:17:08.256 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:17:08.257 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:17:08.257 [Test worker] INFO  oscar.tests.TestBase - **********************************************

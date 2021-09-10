@@ -1,4 +1,0 @@
-07:13:07.627 [Test worker] INFO  oscar.tests.TestBase - Start test userCanSelectProductMenuTest with data: []
-07:13:08.857 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:13:08.858 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:13:08.859 [Test worker] INFO  oscar.tests.TestBase - **********************************************

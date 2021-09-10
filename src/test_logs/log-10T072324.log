@@ -1,4 +1,0 @@
-07:23:31.016 [Test worker] INFO  oscar.tests.TestBase - Start test newUserRegistrationPositiveTest with data: []
-07:23:41.504 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:23:41.515 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:23:41.516 [Test worker] INFO  oscar.tests.TestBase - **********************************************

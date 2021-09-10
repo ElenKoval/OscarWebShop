@@ -1,8 +1,0 @@
-07:18:42.229 [Test worker] INFO  oscar.tests.TestBase - Start test viewOrderHistoryByOrdersNumberPositive with data: []
-07:18:48.582 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:18:48.583 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:18:48.584 [Test worker] INFO  oscar.tests.TestBase - **********************************************
-07:18:53.045 [Test worker] INFO  oscar.tests.TestBase - Start test viewOrderHistoryWithEmptyDataNegative with data: []
-07:18:58.698 [Test worker] INFO  oscar.tests.TestBase - Test result: PASSED
-07:18:58.699 [Test worker] INFO  oscar.tests.TestBase - Stop test: null
-07:18:58.699 [Test worker] INFO  oscar.tests.TestBase - **********************************************
